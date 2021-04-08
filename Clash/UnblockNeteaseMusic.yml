@@ -36,6 +36,7 @@ dns:
         - 240.0.0.0/4
 proxies:
   - {name: 🎵 网易云解锁(本地), server: 127.0.0.1, port: 16375, type: http, username: "", password: "", tls: false}
+  - {name: 🎵 网易云解锁(九叶), server: sweetgang.club, port: 666, type: http, username: "", password: "", tls: false}
   - {name: 🎵 网易云解锁(如风), server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_x80j}
   - {name: 🎵 网易云解锁(Aiden), server: taron.top, port: 200, type: http, username: "", password: "", tls: false}
   - {name: 🎵 网易云解锁(星梦), server: unblock.xmshuju.xyz, port: 1024, type: http, username: "", password: "", tls: false}
@@ -44,6 +45,7 @@ proxy-groups:
     type: select
     proxies:
       - 🎵 网易云解锁(本地)
+      - 🎵 网易云解锁(九叶)
       - 🎵 网易云解锁(如风)
       - 🎵 网易云解锁(Aiden)
       - 🎵 网易云解锁(星梦)
