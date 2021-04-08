@@ -56,6 +56,7 @@ rules:
  - DOMAIN-SUFFIX,hz.netease.com,🎵 网易云解锁
  - DOMAIN-SUFFIX,mam.netease.com,🎵 网易云解锁
  - DOMAIN-SUFFIX,music.163.com,🎵 网易云解锁
+ - DOMAIN-SUFFIX,163.com,🎵 网易云解锁
  - IP-CIDR,39.105.63.80/32,🎵 网易云解锁,no-resolve
  - IP-CIDR,45.254.48.1/32,🎵 网易云解锁,no-resolve
  - IP-CIDR,47.100.127.239/32,🎵 网易云解锁,no-resolve
